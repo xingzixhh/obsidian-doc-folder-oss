@@ -1,5 +1,15 @@
 # 按文档分夹（obsidian-doc-folder-oss）
 
+**源码就在本机这一份，也是 GitHub 仓库根目录：**
+
+```text
+E:\00_code\99_self\obsidian-doc-folder-oss
+```
+
+仓库：https://github.com/xingzixhh/obsidian-doc-folder-oss
+
+下面 `.obsidian/plugins/obsidian-doc-folder-oss/` 只是 Obsidian **装进去用** 的拷贝，改代码请改上面那个目录，再拷 `main.js` / `manifest.json` 进去。
+
 Obsidian 桌面插件。在笔记里粘贴或拖入图片时：
 
 1. 按**当前这篇**建 OSS 目录
