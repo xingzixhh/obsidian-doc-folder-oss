@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-doc-folder-oss",
+  "name": "按文档分夹",
+  "version": "1.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "粘贴或拖入图片时，按当前笔记建 OSS 目录，压缩后上传阿里云，并插入链接。",
+  "author": "Liu",
+  "isDesktopOnly": true
+}
